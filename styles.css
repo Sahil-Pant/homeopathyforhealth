@@ -631,16 +631,16 @@ section {
 }
 
 #abtimg1 {
-  -webkit-mask-image: url('/static/img/abt1.png');
-  mask-image: url('/static/img/abt1.png');
+  -webkit-mask-image: url('assets/images/abt1.png');
+  mask-image: url('assets/images/abt1.png');
 }
 #abtimg2 {
-  -webkit-mask-image: url('/static/img/abt2.png');
-  mask-image: url('/static/img/abt2.png');
+  -webkit-mask-image: url('assets/images/abt2.png');
+  mask-image: url('assets/images/abt2.png');
 }
 #abtimg3 {
-  -webkit-mask-image: url('/static/img/abt3.png');
-  mask-image: url('/static/img/abt3.png');
+  -webkit-mask-image: url('assets/images/abt3.png');
+  mask-image: url('assets/images/abt3.png');
 }
 .feature {
   display: flex;
